@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{A1C22D68-8876-DF1A-793D-FE0825BDC13B}|">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EnemySpawnerEditor" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="editor" expanded="True">
+                <Node name="EnemyDesignerWindow.cs" selected="True" />
+              </Node>
+              <Node name="resources" expanded="True">
+                <Node name="characterData" expanded="True">
+                  <Node name="data" expanded="True" />
+                  <Node name="scripts" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp-Editor PreferredExecutionTarget="c1a759be-a4bb-4fa7-8a7a-ca935ab4567d" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c1a759be-a4bb-4fa7-8a7a-ca935ab4567d" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
